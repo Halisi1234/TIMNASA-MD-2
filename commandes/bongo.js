@@ -56,7 +56,7 @@ zokou({
   } = _0x53dc51;
   const _0x2784cf = await fetch('https://favqs.com/api/qotd');
   const _0x1f25fb = await _0x2784cf.json();
-  const _0x2b238b = "\nBMW MD QUITE MESSAGE \n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *©Ibrahim Adams**\n\n\n╔═════◇\n║◇ *BMW MD*\n╚════════════════════> ";
+  const _0x2b238b = "\n TIMNASA MD QUITE MESSAGE \n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *©Ibrahim Adams**\n\n\n╔═════◇\n║◇ *TIMNASA MD*\n╚════════════════════> ";
   _0x3bef2d(_0x2b238b);
 });
 zokou({
