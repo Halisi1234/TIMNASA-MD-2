@@ -34,9 +34,12 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭──────────────────❂
-┊❂╭───*ANYWAY-MD*────❂
-┊✺┊ *User* : ${s.OWNER_NAME}
-┊✺┊ *Mode* : ${mode}
+❒───────────────────❒
+┊❂╭───*TIMNASA MD*────❂
+┊✺┊ *User* : ${s.OWNER_NAME}TIMNASA
+┊✺┊
+❒───────────────────❒
+┊✺┊*Mode* : ${mode }public
 ┊✺╰───────────────❂
 ┊✺┊ *Time* : ${temps}  
 ┊✺┊ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -44,16 +47,16 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  **ANYWAY MD COMMANDS*
+  **TIMNASA-MD COMMANDS*
 `;
 
     for (const cat in coms) {
         menuMsg += `*╭────❂* *${cat}* *❂*`;
-        for (const cmd of coms[cat]) {
-            menuMsg += `  
+ ┊      for (const cmd of coms[cat]) {
+ ┊           menuMsg += `  
 *┊❂* ${cmd}`;
-        }
-        menuMsg += `
+ ┊       }
+ ┊       menuMsg += `
 *╰═════════════❂* \n`
     }
 
@@ -61,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *ANYWAY-MD*                                         
+  *TIMNASA-MD*                                         
 *╰═════════════❂*
 `;
 
