@@ -33,7 +33,7 @@ async (origineMessage, zk, commandeOptions) => {
 });
 
 
-  /////////////// hneko //////////
+  /////////////// Tneko //////////
 zokou({
   nomCom: "trap",
   categorie: "Hentai",
