@@ -34,25 +34,30 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TOSH MD IMPORTANT INFO* 
-❒───────────────────❒
-*GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+   *TIMNASA-MD  IMPORTANT INFO* 
+❒────────GITHUB───────────❒
+*GITHUB LINK👇👇*
+> https://github.com/Halisi1234/TIMNASA-MD-2
 
-*WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
-⁠
-╭───────────────────❒
+*WHATSAPP GROUP👇👇*
+> https://chat.whatsapp.com/BM7F8CC4yMO9iJynKkiflU
+
+❒────────CHANNEL SUPPORT───────────❒
+*⁠CHANNEL 1 LINK SUPPORT 🤞👇*
+https://whatsapp.com/channel/0029VarwsIB8F2pG9QWm3n1Z
+*CHANNEL 2 LINK SUPPORT 👇🤞*
+https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+╭─────────TIMNASA-MD──────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
-⁠⁠⁠⁠╰───────────────────❒
+│❒⁠⁠⁠⁠ *DEV1* : *Mr TIMNASA TECH*
+│❒⁠⁠⁠⁠ *DEV2* : *FRED1E TECH*
+⁠⁠⁠⁠╰──────────TIMNASA-MD─────────❒
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *Timnasa Tech*
 
-❒────────────────────❒`;
+❒────────TIMNASA-MD────────────❒`;
 
    var lien = mybotpic();
 
@@ -121,24 +126,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *TIMNASA MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Halisi1234/TIMNASA-MD-2
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *TIMNASA-MD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     TIMNASA TECH  OF BOT
 
 ❒────────────────────❒`;
 
